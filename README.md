@@ -1,6 +1,6 @@
 # Weather App
 
-This is a useful application for everyone that enables the user to add numerous locations to verify the weather data
+This is a useful application that enables the user to add numerous locations to verify the weather data, the app displays humidity, wind and temperature.
 
 ## Live Demo
 https://weather-app-8ff12.web.app/
